@@ -1,0 +1,7 @@
+{
+	"numero_casas": 10,
+	"token":"token_do_usuario",
+	"cifrado": "texto criptografado",
+	"decifrado": "aqui vai o texto decifrado",
+	"resumo_criptografico": "aqui vai o resumo"
+}
